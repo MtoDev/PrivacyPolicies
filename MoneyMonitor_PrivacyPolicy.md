@@ -25,8 +25,6 @@ This is the list of permissions required by the app.
 `android.permission.WRITE_EXTERNAL_STORAGE`
 <br/>
 `android.permission.READ_EXTERNAL_STORAGE`
-<br/>
-`android.permission.MANAGE_EXTERNAL_STORAGE`
 
 <hr style="border:1px solid gray">
 
